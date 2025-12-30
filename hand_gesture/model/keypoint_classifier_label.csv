@@ -1,0 +1,8 @@
+﻿close,      # exit drawing mode or take screenshot
+select,      # or selection in drawing mode
+activate,    # start sound adjustment
+freeze,     # lock on the desired vol level
+draw,        # enter drawing mode
+pen,
+lock,        # go to verification phase
+Unknown,
